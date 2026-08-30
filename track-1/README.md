@@ -2,30 +2,28 @@
 
 ## Overview
 
-As part of the **Gen AI APAC Edition**, I built a personalized AI assistant for a coffee shop application.
-
-The project focuses on using an AI agent to understand customer needs and provide personalized recommendations.
+As part of the Gen AI APAC Edition, I built a personalized AI assistant
+for a coffee shop application.
 
 ## Technologies Used
 
-* Google Agent Development Kit (ADK)
-* Retrieval-Augmented Generation (RAG)
-* Gemini
-* Google Cloud Run
+- Google Agent Development Kit (ADK)
+- Retrieval-Augmented Generation (RAG)
+- Gemini
+- Google Cloud Run
 
 ## What I Built
 
-A customer-facing AI assistant that uses **RAG** to retrieve relevant information and provide personalized coffee recommendations.
+A customer-facing AI assistant that uses RAG to retrieve relevant
+information and provide personalized coffee recommendations.
 
-## Deployment
+## 🚀 Live Demo
 
-The application was deployed on **Google Cloud Run**.
-
-> Live deployment link will be added after verifying the Cloud Run deployment.
+[Open Track 1 AI Coffee Assistant](https://coffee-barista-569212873638.asia-south1.run.app)
 
 ## Key Learnings
 
-* Building AI agents using Google ADK
-* Understanding Retrieval-Augmented Generation (RAG)
-* Creating personalized AI experiences
-* Deploying AI applications on Google Cloud Run
+- Building AI agents using Google ADK
+- Understanding Retrieval-Augmented Generation (RAG)
+- Creating personalized AI experiences
+- Deploying AI applications on Google Cloud Run
