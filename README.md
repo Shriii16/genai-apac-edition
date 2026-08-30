@@ -68,6 +68,8 @@ An AI assistant for tasks such as checking sales and tracking inventory.
 
 ## 📚 Program
 
-**Gen AI APAC Edition**
+## 🎓 Program
 
-This repository documents my hands-on learning and project work across all three tracks.
+**Gen AI APAC Edition — Google Cloud**
+
+Hands-on experience building and deploying AI agents across three practical tracks.
